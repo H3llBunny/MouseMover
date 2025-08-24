@@ -41,10 +41,13 @@ You can stop it anytime with **CTRL+ALT+Q** or by closing the terminal.
    pyinstaller --onefile mouse.py
 3. The `.exe` will be created inside the `dist/` folder.
 
-📝 Notes
+---
+
+## 📝 Notes
 
 Default idle threshold = 20 seconds (you can change this in the code).
 
 Hotkey to quit = CTRL+ALT+Q.
 
 Coordinates (2500–2600, 800–900) may need adjusting for your monitor setup.
+
