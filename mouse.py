@@ -17,7 +17,7 @@ def mouse_action():
 
     # Scroll down slightly
     pag.scroll(-100)
-
+    pag.FAILSAFE = False;
     # Perform a left mouse button click
     # pag.click()
 
